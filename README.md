@@ -124,8 +124,8 @@ The data is related to direct marketing campaigns of a Portuguese banking instit
 
 2. **Model Evaluation**:
    - Achieved an accuracy of approximately 80.8%.
-   - Visualized the confusion matrix in both raw counts and percentages for clear understanding.
-   - Presented the classification report in a tabular format for detailed performance metrics.
+   - Visualized the confusion matrix in both raw counts and percentages.
+   - Presented the classification report.
 
 ### 4. Summary
 
